@@ -13,7 +13,7 @@ output:
     max.print: 10
 ---
 
-```{r libraries}
+```{r libraries, message=FALSE, warning=TRUE}
 library(readr)
 library(dplyr)
 library(tidyr)
