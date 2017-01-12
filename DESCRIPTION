@@ -1,4 +1,4 @@
-Package: Stuart
+Package: stuart
 Title: Personal package
 Version: 0.0.1
 Authors@R: person("Tim", "Stuart", email = "timstuart90@gmail.com", role = c("aut", "cre"))
