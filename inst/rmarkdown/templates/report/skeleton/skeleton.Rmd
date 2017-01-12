@@ -1,0 +1,27 @@
+---
+title: "Untitled"
+author: "Tim Stuart"
+output:
+  html_document:
+    self_contained: true
+    toc: true
+    toc_float: true
+    fig_caption: true
+    fig_retina: true
+    code_folding: show
+    df_print: paged
+    max.print: 10
+---
+
+```{r libraries}
+library(readr)
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+```
+
+
+## Introduction
+
+### Aim
+

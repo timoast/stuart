@@ -1,0 +1,9 @@
+Package: Stuart
+Title: Personal package
+Version: 0.0.1
+Authors@R: person("Tim", "Stuart", email = "timstuart90@gmail.com", role = c("aut", "cre"))
+Description: Contains rmarkdown templates and convenience functions for personal use.
+Depends: R (>= 3.3.2)
+License: MIT
+Encoding: UTF-8
+LazyData: true
