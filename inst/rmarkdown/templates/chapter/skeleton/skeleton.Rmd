@@ -1,0 +1,9 @@
+# `r Sys.Date()`
+
+## Title
+
+### Session info
+
+```{r}
+devtools::session_info()
+```
