@@ -1,4 +1,4 @@
-# `r Sys.Date()`
+# Date
 
 ## Title
 
