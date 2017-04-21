@@ -4,6 +4,8 @@
 
 ### Session info
 
+Code last run on `r Sys.Date()`
+
 ```{r}
 devtools::session_info()
 ```
