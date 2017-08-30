@@ -1,6 +1,6 @@
 Package: stuart
 Title: Personal package
-Version: 0.0.6
+Version: 0.0.7
 Date: 2017-08-30
 Authors@R: person("Tim", "Stuart", email = "timstuart90@gmail.com",
         role = c("aut", "cre"))
