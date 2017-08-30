@@ -1,7 +1,7 @@
 Package: stuart
 Title: Personal package
-Version: 0.0.5
-Date: 2017-04-21
+Version: 0.0.6
+Date: 2017-08-30
 Authors@R: person("Tim", "Stuart", email = "timstuart90@gmail.com",
         role = c("aut", "cre"))
 Description: Contains rmarkdown templates and convenience functions for
@@ -10,3 +10,4 @@ Depends: R (>= 3.3.2)
 License: MIT
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 6.0.1
