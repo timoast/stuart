@@ -1,11 +1,6 @@
 # Date
 
-```{r setup}
-knitr::opts_chunk$set(
-	echo = FALSE,
-	message = FALSE,
-	warning = FALSE
-)
+```{r setup, include=FALSE}
 knitr::knit_hooks$set(
   eval = function(before, options, envir) {
     if (before) {
