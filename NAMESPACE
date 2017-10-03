@@ -2,4 +2,5 @@
 
 export(hmap)
 export(set_fonts)
+export(stuart_colors)
 importFrom(RColorBrewer,brewer.pal)

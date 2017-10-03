@@ -12,3 +12,8 @@ set_fonts(set = TRUE)
 \description{
 Define some custom font families
 }
+\examples{
+library(stuart)
+define_fonts()
+
+}

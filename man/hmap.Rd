@@ -21,3 +21,8 @@ hmap(mat, col = "RdYlBu", rotate = TRUE, reverse_color = TRUE,
 \description{
 Plot a simple heatmap without clustering or dendorgram
 }
+\examples{
+mat <- matrix(seq(100)) 
+hmap(mat, title = "Example heatmap")
+
+}
