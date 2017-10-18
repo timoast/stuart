@@ -67,7 +67,8 @@ stuart_colors <- function(type = 'three') {
     # categorical
     pairs <- c("#F98866", "#FF420E", "#80BD9E", "#89DA59")
     four <- c("#375E97", "#FB6542", "#FFBB00", "#3F681C")
-    genotypes <- c("#DAECF3", "#FF404E","#1CA5B8", "#D3D3D3")
+    genotypes <- c("#2F5A7C", "#009DDB","#FFC300", "#D3D3D3")
+    genotypes1 <- c("#DAECF3", "#FF404E","#1CA5B8", "#D3D3D3")
     three <- c("#225378", "#ACF0F2", "#EB7F00")
     mc <- c('#B4B464', '#6665AD', '#B29492')
     flat <- c("#9b59b6", "#3498db", "#e74c3c", "#34495e", "#2ecc71")

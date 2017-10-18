@@ -1,7 +1,7 @@
 Package: stuart
 Title: Personal package
-Version: 0.0.12
-Date: 2017-10-03
+Version: 0.0.13
+Date: 2017-10-18
 Authors@R: person("Tim", "Stuart", email = "timstuart90@gmail.com",
         role = c("aut", "cre"))
 Description: Contains rmarkdown templates and convenience functions for
